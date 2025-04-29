@@ -5,8 +5,8 @@ export TOK=${TOK:-''}  # 隧道token或json
 export ARGO_DOMAIN=${ARGO_DOMAIN:-''} # 隧道域名
 
 # //哪吒相关设置
-export NEZHA_SERVER=${NEZHA_SERVER:-''}
-export NEZHA_KEY=${NEZHA_KEY:-''}
+export NEZHA_SERVER=${NEZHA_SERVER:-'nezhak.5201972.xyz'}
+export NEZHA_KEY=${NEZHA_KEY:-'1FDGTmMcPcMksfJTI2'}
 export NEZHA_PORT=${NEZHA_PORT:-'443'}
 export NEZHA_TLS=${NEZHA_TLS:-'1'}  # 1启用tls,0关闭tls
 
